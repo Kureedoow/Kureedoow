@@ -18,7 +18,7 @@
 -------------
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D12AQGgZwXEkp0K9Q/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1707745582731?e=2147483647&v=beta&t=_EPAK6-63NlnbCJJsWF3Z1zcNcfZQKhNV1IByivAuFI" width="40% " height="0%" alt="Abdirahman Abdullahi Banner">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsynergytop.com%2Fblog%2Fwhy-choose-the-mern-stack-for-web-application-development-2021%2F&psig=AOvVaw2MqLtkPYGEDIrmTRwNA--r&ust=1756463229676000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKC22MSlrY8DFQAAAAAdAAAAABAE" width="40% " height="0%" alt="Abdirahman Abdullahi Banner">
 </div>
 
 ### 👨‍💻 About Me
