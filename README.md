@@ -1,6 +1,8 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
   <img src="https://promwad.com/sites/default/files/frontend_development_banner.jpg" width="100%" alt="Abdirahman Abdullahi Banner"/>
+   <img src="https://promwad.com/sites/default/files/frontend_development_banner.jpg" width="100%" alt="Abdirahman Abdullahi Banner"/>
+  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-32cc-622f-aa04-b457d291ee6f/raw?se=2025-08-28T13%3A18%3A49Z&sp=r&sv=2024-08-04&sr=b&scid=f64cabb2-7509-5bfe-9284-545c7dcde811&skoid=bbd22fc4-f881-4ea4-b2f3-c12033cf6a8b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-27T20%3A38%3A00Z&ske=2025-08-28T20%3A38%3A00Z&sks=b&skv=2024-08-04&sig=WQhZ0OSh8yAk5Z0n%2BhQCl4HIU/DAp75a4YZUSL7fpuo%3D"/>
 </div>
 
 <!-- ============ PROFILE INTRO ============ -->
