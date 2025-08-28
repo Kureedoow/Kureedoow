@@ -1,4 +1,11 @@
-<!-- ============ CUSTOM MERN BANNER ============ -->
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://promwad.com/sites/default/files/frontend_development_banner.jpg" width="100%" alt="Abdirahman Abdullahi Banner"/>
+</div>
+
+<!-- Profile Picture & Intro -->
+
+
 <div align="center">
   <div style="background: linear-gradient(135deg, #0e75b6 0%, #2c3e50 100%); padding: 2.5rem; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 1.5rem;">
     <h1 style="color: white; font-size: 2.8rem; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ABDIRAHMAN ABDULLAHI</h1>
@@ -48,106 +55,88 @@ I'm a passionate MERN Stack Developer with expertise in building full-stack web 
 - 🎯 Goal: To become a **world-class software engineer** and create impactful digital products
 - 💡 Passionate about **clean code, user experience, and scalable architecture**
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kureedoow/image/main/profile-pic.jpg" 
+       alt="Abdirahman Abdullahi" 
+       width="150" 
+       style="border-radius:50%; border:4px solid #0e75b6;" />
+  <h1>Hi there, I'm Abdirahman Abdullahi 👋</h1>
+  <h3>🚀 Passionate Frontend Developer | 🌍 From Somalia | 💻 Turning Ideas into Code</h3>
+</div>
+
 ---
 
-<!-- ============ TECH STACK ============ -->
-## 🛠️ Tech Stack
+## 👨‍💻 About Me  
+I'm a self-taught **Frontend Developer** with a love for building beautiful, responsive, and user-friendly web applications.  
+I enjoy solving problems, learning new technologies, and collaborating with others to create amazing projects.  
+My goal is to become a **Full-Stack Developer** and contribute to open-source projects that make a difference.
 
-### Frontend & Backend
+---
+
+## 🛠️ Tech Stack  
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-### Styling & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
 ---
 
-<!-- ============ GITHUB STATS ============ -->
-## 📊 GitHub Analytics
+## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kureedoow&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kureedoow&theme=algolia&hide_border=true&background=00000000" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kureedoow&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kureedoow&theme=radical" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kureedoow&layout=compact&theme=algolia&hide_border=true&bg_color=00000000" alt="Top Languages" width="55%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kureedoow&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
 
-<!-- ============ FEATURED PROJECTS ============ -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 📚 E-Learning Platform
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kureedoow&repo=elearning-app&theme=algolia&hide_border=true)](https://github.com/kureedoow/elearning-app)
-
-A full-stack MERN application with authentication, video courses, quizzes & progress tracking.
-
-### 🏫 School Management System
-
-
-### 🤖 Somali Chatbot with Voice Support
-
-
-### 💼 Personal Portfolio Website
-
-
-Responsive modern portfolio built with React & TailwindCSS.
-
-</div>
+## 🌱 Currently Learning  
+- **ReactJS** → Building real-world projects to master React.  
+- **Node.js** → Exploring backend development to become full-stack.  
 
 ---
 
-<!-- ============ CONTRIBUTION GRAPH ============ -->
-## 🐍 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kureedoow/kureedoow/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</div>
+## 🚀 Featured Projects  
+
+### [📌 Project 1](https://github.com/kureedoow/project1)  
+A responsive portfolio website built with **HTML, CSS, and JavaScript**.  
 
 ---
 
-<!-- ============ CONTACT ============ -->
-## 📫 Connect With Me
+## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.facebook.com/share/1caw9fhpzw/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:rapidmaan1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.facebook.com/cabdirahmaan.kureedow" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/kureedoow" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-6e5494?style=for-the-badge&logo=readme&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## ⚡ Fun Fact  
+I believe that **collaboration** and **continuous learning** are the keys to success in the tech world.  
+Let’s build something amazing together! 🚀  
+
+---
+
 <div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=kureedoow&color=blue&style=flat-square)
-
-<i>"Code is not just code — it's an impact waiting to happen."</i>
-
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding GIF"/>
 </div>
