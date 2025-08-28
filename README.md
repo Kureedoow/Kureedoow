@@ -99,17 +99,13 @@ I'm a passionate MERN Stack Developer with expertise in building full-stack web 
 A full-stack MERN application with authentication, video courses, quizzes & progress tracking.
 
 ### 🏫 School Management System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kureedoow&repo=school-management&theme=algolia&hide_border=true)](https://github.com/kureedoow/school-management)
 
-All-in-one student/teacher management system with LocalStorage & charts.
 
 ### 🤖 Somali Chatbot with Voice Support
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kureedoow&repo=somali-chatbot&theme=algolia&hide_border=true)](https://github.com/kureedoow/somali-chatbot)
 
-Interactive chatbot built in HTML/CSS/JS with voice & dark mode.
 
 ### 💼 Personal Portfolio Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kureedoow&repo=portfolio&theme=algolia&hide_border=true)](https://github.com/kureedoow/portfolio)
+
 
 Responsive modern portfolio built with React & TailwindCSS.
 
