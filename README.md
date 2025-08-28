@@ -5,8 +5,7 @@
 <div align="center">
 
 <img 
-src="https://videos.openai.com/vg-assets/assets%2Ftask_01jzpcpk14eanr7dk3em76p29n%2F1752024503_img_0.webp?st=2025-08-28T10%3A47%3A10Z&se=2025-09-03T11%3A47%3A10Z&sks=b&skt=2025-08-28T10%3A47%3A10Z&ske=2025-09-03T11%3A47%3A10Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=fea36edb-a052-425e-a84a-436fdce0a7b4&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=UhrmG93%2BrdkfCnwe9G5BIUhssVchwv3%2Bh7dswJZPLd8%3D&az=oaivgprodscus"
-alt="Profile" 
+src="https://videos.openai.com/vg-assets/assets%2Ftask_01k3rcpr6je2xtds9m7pdjx5qf%2F1756386646_img_0.webp?st=2025-08-28T12%3A00%3A58Z&se=2025-09-03T13%3A00%3A58Z&sks=b&skt=2025-08-28T12%3A00%3A58Z&ske=2025-09-03T13%3A00%3A58Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=fea36edb-a052-425e-a84a-436fdce0a7b4&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=%2BxCjzVS7%2BlNtystbOjUnhPlOMfS1B5KcqAMejNjLqE8%3D&az=oaivgprodscus"
 width="200" 
 height="200"
  />
@@ -59,7 +58,7 @@ height="200"
 </div>
 <div align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding GIF"/>
-  <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01k3rcpr6je2xtds9m7pdjx5qf%2F1756386646_img_0.webp?st=2025-08-28T12%3A00%3A58Z&se=2025-09-03T13%3A00%3A58Z&sks=b&skt=2025-08-28T12%3A00%3A58Z&ske=2025-09-03T13%3A00%3A58Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=fea36edb-a052-425e-a84a-436fdce0a7b4&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=%2BxCjzVS7%2BlNtystbOjUnhPlOMfS1B5KcqAMejNjLqE8%3D&az=oaivgprodscus " with="80%" height="50%"/>
+
 </div
 ---
 
