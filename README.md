@@ -1,32 +1,24 @@
-<!-- Header Banner -->
-<Header Banner --> <div align="center"> <img src="https://promwad.com/sites/default/files/frontend_development_banner.jpg" width="100%" alt="Abdirahman Abdullahi Banner"/> </div> 
-  <!-- Profile Picture & Intro -->
+<!-- ================= HEADER BANNER ================= -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kureedoow/image/main/mern-banner.png" width="100%" alt="Abdirahman Abdullahi - MERN Developer Banner"/>
+</div>
 
-<!-- Profile Picture & Intro -->
-
-
+<!-- ================= PROFILE & INTRO ================= -->
 <div align="center">
   <div style="background: linear-gradient(135deg, #0e75b6 0%, #2c3e50 100%); padding: 2.5rem; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 1.5rem;">
     <h1 style="color: white; font-size: 2.8rem; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ABDIRAHMAN ABDULLAHI</h1>
     <p style="color: rgba(255,255,255,0.9); font-size: 1.4rem; margin: 0.5rem 0; font-weight: 300;">Full Stack MERN Developer</p>
-    <div style="display: flex; justify-content: center; gap: 1.5rem; margin-top: 1.5rem; flex-wrap: wrap;">
-      <div style="background: rgba(255,255,255,0.15); padding: 0.6rem 1.2rem; border-radius: 25px; display: flex; align-items: center; gap: 0.5rem;">
-        <span style="color: white; font-weight: 500;">MongoDB</span>
-      </div>
-      <div style="background: rgba(255,255,255,0.15); padding: 0.6rem 1.2rem; border-radius: 25px; display: flex; align-items: center; gap: 0.5rem;">
-        <span style="color: white; font-weight: 500;">Express.js</span>
-      </div>
-      <div style="background: rgba(255,255,255,0.15); padding: 0.6rem 1.2rem; border-radius: 25px; display: flex; align-items: center; gap: 0.5rem;">
-        <span style="color: white; font-weight: 500;">React</span>
-      </div>
-      <div style="background: rgba(255,255,255,0.15); padding: 0.6rem 1.2rem; border-radius: 25px; display: flex; align-items: center; gap: 0.5rem;">
-        <span style="color: white; font-weight: 500;">Node.js</span>
-      </div>
+    
+    <div style="display: flex; justify-content: center; gap: 1rem; margin-top: 1rem; flex-wrap: wrap;">
+      <span style="background: rgba(255,255,255,0.15); padding: 0.5rem 1rem; border-radius: 25px; color: white; font-weight: 500;">MongoDB</span>
+      <span style="background: rgba(255,255,255,0.15); padding: 0.5rem 1rem; border-radius: 25px; color: white; font-weight: 500;">Express.js</span>
+      <span style="background: rgba(255,255,255,0.15); padding: 0.5rem 1rem; border-radius: 25px; color: white; font-weight: 500;">React</span>
+      <span style="background: rgba(255,255,255,0.15); padding: 0.5rem 1rem; border-radius: 25px; color: white; font-weight: 500;">Node.js</span>
     </div>
   </div>
 </div>
 
-<!-- ============ PROFILE HEADER ============ -->
+<!-- ================= PROFILE PICTURE ================= -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/kureedoow/image/main/profile-pic.jpg" 
        alt="Abdirahman Abdullahi" 
@@ -43,7 +35,6 @@
 
 ---
 
-<!-- ============ ABOUT ME ============ -->
 ## 👨‍💻 About Me
 
 I'm a passionate MERN Stack Developer with expertise in building full-stack web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
@@ -54,13 +45,7 @@ I'm a passionate MERN Stack Developer with expertise in building full-stack web 
 - 🎯 Goal: To become a **world-class software engineer** and create impactful digital products
 - 💡 Passionate about **clean code, user experience, and scalable architecture**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Kureedoow/image/main/profile-pic.jpg" 
-       alt="Abdirahman Abdullahi" 
-       width="150" 
-       style="border-radius:50%; border:4px solid #0e75b6;" />
- 
-
+---
 
 ## 🛠️ Tech Stack  
 
@@ -111,37 +96,30 @@ I'm a passionate MERN Stack Developer with expertise in building full-stack web 
 
 ---
 
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kureedoow&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kureedoow&theme=radical" alt="GitHub Streak" width="48%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kureedoow&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
----
-
 ## 🌱 Currently Learning  
 - **ReactJS** → Building real-world projects to master React.  
 - **Node.js** → Exploring backend development to become full-stack.  
+- **TypeScript & Next.js** → Modern full-stack development.  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### [📌 Project 1](https://github.com/kureedoow/project1)  
+### [📌 Portfolio Website](https://github.com/kureedoow/project1)  
 A responsive portfolio website built with **HTML, CSS, and JavaScript**.  
+
+### [📌 School Management System](https://github.com/kureedoow/school-management)  
+Full-featured **MERN application** with students, teachers, and exams management.  
+
+### [📌 E-learning Platform](https://github.com/kureedoow/e-learning)  
+Interactive **E-learning web app** built with **React & Node.js**.  
 
 ---
 
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://www.facebook.com/share/1caw9fhpzw/" target="_blank">
+  <a href="https://www.facebook.com/cabdirahmaan.kureedow" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="mailto:rapidmaan1@gmail.com" target="_blank">
@@ -150,15 +128,16 @@ A responsive portfolio website built with **HTML, CSS, and JavaScript**.
   <a href="https://github.com/kureedoow" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/abdirahman-abdullahi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## ⚡ Fun Fact  
-I believe that **collaboration** and **continuous learning** are the keys to success in the tech world.  
+I believe that **collaboration** and **continuous learning** are the keys to success in tech.  
 Let’s build something amazing together! 🚀  
-
----
 
 <div align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding GIF"/>
