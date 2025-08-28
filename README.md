@@ -48,14 +48,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Specialist;Problem+Solver;Continuous+Learner" 
        alt="Typing SVG" />
 </div>
-
+<div align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding GIF"/>
+</div
 ---
-<div align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding GIF"/>
-</div
-<div align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding GIF"/>
-</div
 
 ## 👨‍💻 About Me
 I'm a passionate MERN Stack Developer with expertise in building full-stack web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
