@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://promwad.com/sites/default/files/frontend_development_banner.jpg" width="100%" alt="Abdirahman Abdullahi Banner"/>
   
-  <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-41c8-61f8-87d1-9fd4379f165e/raw?se=2025-08-28T13%3A23%3A08Z&sp=r&sv=2024-08-04&sr=b&scid=9f49d393-fb45-5c51-9acd-31355803cd38&skoid=bbd22fc4-f881-4ea4-b2f3-c12033cf6a8b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-27T20%3A38%3A52Z&ske=2025-08-28T20%3A38%3A52Z&sks=b&skv=2024-08-04&sig=%2BdCG4C9n5QcQD9UXzWgjJMk4DSpg3k2YO5opJbaztTk%3D"/>
+  <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-41c8-61f8-87d1-9fd4379f165e/raw?se=2025-08-28T13%3A23%3A08Z&sp=r&sv=2024-08-04&sr=b&scid=9f49d393-fb45-5c51-9acd-31355803cd38&skoid=bbd22fc4-f881-4ea4-b2f3-c12033cf6a8b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-27T20%3A38%3A52Z&ske=2025-08-28T20%3A38%3A52Z&sks=b&skv=2024-08-04&sig=%2BdCG4C9n5QcQD9UXzWgjJMk4DSpg3k2YO5opJbaztTk%3D  width="60%" "/>
 </div>
 
 <!-- ============ PROFILE INTRO ============ -->
