@@ -1,28 +1,56 @@
 <!-- ============ CUSTOM MERN BANNER ============ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kureedoow/image/main/mern-banner.png" width="100%" alt="Abdirahman Abdullahi - MERN Stack Developer"/>
+  <div style="background: linear-gradient(135deg, #0e75b6 0%, #2c3e50 100%); padding: 2.5rem; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-bottom: 1.5rem;">
+    <h1 style="color: white; font-size: 2.8rem; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">ABDIRAHMAN ABDULLAHI</h1>
+    <p style="color: rgba(255,255,255,0.9); font-size: 1.4rem; margin: 0.5rem 0; font-weight: 300;">Full Stack MERN Developer</p>
+    <div style="display: flex; justify-content: center; gap: 1.5rem; margin-top: 1.5rem; flex-wrap: wrap;">
+      <div style="background: rgba(255,255,255,0.15); padding: 0.6rem 1.2rem; border-radius: 25px; display: flex; align-items: center; gap: 0.5rem;">
+        <span style="color: white; font-weight: 500;">MongoDB</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.15); padding: 0.6rem 1.2rem; border-radius: 25px; display: flex; align-items: center; gap: 0.5rem;">
+        <span style="color: white; font-weight: 500;">Express.js</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.15); padding: 0.6rem 1.2rem; border-radius: 25px; display: flex; align-items: center; gap: 0.5rem;">
+        <span style="color: white; font-weight: 500;">React</span>
+      </div>
+      <div style="background: rgba(255,255,255,0.15); padding: 0.6rem 1.2rem; border-radius: 25px; display: flex; align-items: center; gap: 0.5rem;">
+        <span style="color: white; font-weight: 500;">Node.js</span>
+      </div>
+    </div>
+  </div>
 </div>
-
-<br />
 
 <!-- ============ PROFILE HEADER ============ -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/kureedoow/image/main/profile-pic.jpg" 
        alt="Abdirahman Abdullahi" 
-       width="150" 
-       style="border-radius:50%; border:4px solid #0e75b6; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+       width="160" 
+       style="border-radius:50%; border:4px solid #0e75b6; box-shadow: 0 4px 12px rgba(14, 118, 182, 0.3); margin-top: 1rem;" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Abdirahman Abdullahi</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🌍 Somalia | 💻 Crafting Scalable Digital Solutions</h3>
+<h1 align="center">Hi there! 👋 I'm Abdirahman</h1>
+<h3 align="center">🚀 MERN Stack Developer | 🌍 Based in Somalia | 💻 Crafting Scalable Web Solutions</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Specialist;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ---
 
-<!-- ============ TECH STACK BADGES ============ -->
+<!-- ============ ABOUT ME ============ -->
+## 👨‍💻 About Me
+
+I'm a passionate MERN Stack Developer with expertise in building full-stack web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+
+- 🔭 Currently working on **full-featured MERN apps** (E-learning & School Management Systems)
+- 🌱 Expanding my knowledge in **Next.js, TypeScript, and DevOps practices**
+- 👯 Looking to collaborate on **open source projects and innovative web solutions**
+- 🎯 Goal: To become a **world-class software engineer** and create impactful digital products
+- 💡 Passionate about **clean code, user experience, and scalable architecture**
+
+---
+
+<!-- ============ TECH STACK ============ -->
 ## 🛠️ Tech Stack
 
 ### Frontend & Backend
@@ -43,19 +71,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
----
-
-<!-- ============ ABOUT ME ============ -->
-## 👨‍💻 About Me
-
-I'm a passionate MERN Stack Developer from Somalia with expertise in building full-stack web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
-
-- 🔭 Currently working on **full-featured MERN apps** (E-learning & School Management Systems)
-- 🌱 Expanding my knowledge in **Next.js, TypeScript, and DevOps practices**
-- 👯 Looking to collaborate on **open source projects and innovative web solutions**
-- 🎯 Goal: To become a **world-class software engineer** and create impactful digital products
-- 💡 Passionate about **clean code, user experience, and scalable architecture**
 
 ---
 
@@ -81,20 +96,28 @@ I'm a passionate MERN Stack Developer from Somalia with expertise in building fu
 ### 📚 E-Learning Platform
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kureedoow&repo=elearning-app&theme=algolia&hide_border=true)](https://github.com/kureedoow/elearning-app)
 
+A full-stack MERN application with authentication, video courses, quizzes & progress tracking.
+
 ### 🏫 School Management System
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kureedoow&repo=school-management&theme=algolia&hide_border=true)](https://github.com/kureedoow/school-management)
 
-### 🤖 Somali Chatbot
+All-in-one student/teacher management system with LocalStorage & charts.
+
+### 🤖 Somali Chatbot with Voice Support
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kureedoow&repo=somali-chatbot&theme=algolia&hide_border=true)](https://github.com/kureedoow/somali-chatbot)
 
-### 💼 Portfolio Website
+Interactive chatbot built in HTML/CSS/JS with voice & dark mode.
+
+### 💼 Personal Portfolio Website
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kureedoow&repo=portfolio&theme=algolia&hide_border=true)](https://github.com/kureedoow/portfolio)
+
+Responsive modern portfolio built with React & TailwindCSS.
 
 </div>
 
 ---
 
-<!-- ============ CONTRIBUTION SNAKE ============ -->
+<!-- ============ CONTRIBUTION GRAPH ============ -->
 ## 🐍 Contribution Graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/kureedoow/kureedoow/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
