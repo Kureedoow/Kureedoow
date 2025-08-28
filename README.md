@@ -60,18 +60,8 @@ I'm a passionate MERN Stack Developer with expertise in building full-stack web 
        alt="Abdirahman Abdullahi" 
        width="150" 
        style="border-radius:50%; border:4px solid #0e75b6;" />
-  <h1>Hi there, I'm Abdirahman Abdullahi 👋</h1>
-  <h3>🚀 Passionate Frontend Developer | 🌍 From Somalia | 💻 Turning Ideas into Code</h3>
-</div>
+ 
 
----
-
-## 👨‍💻 About Me  
-I'm a self-taught **Frontend Developer** with a love for building beautiful, responsive, and user-friendly web applications.  
-I enjoy solving problems, learning new technologies, and collaborating with others to create amazing projects.  
-My goal is to become a **Full-Stack Developer** and contribute to open-source projects that make a difference.
-
----
 
 ## 🛠️ Tech Stack  
 
