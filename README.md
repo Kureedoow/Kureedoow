@@ -50,6 +50,12 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding GIF"/>
+</div
+<div align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding GIF"/>
+</div
 
 ## 👨‍💻 About Me
 I'm a passionate MERN Stack Developer with expertise in building full-stack web applications. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
