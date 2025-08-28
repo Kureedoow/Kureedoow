@@ -1,9 +1,6 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
   <img src="https://promwad.com/sites/default/files/frontend_development_banner.jpg" width="100%" alt="Abdirahman Abdullahi Banner"/>
-  
-  <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-41c8-61f8-87d1-9fd4379f165e/raw?se=2025-08-28T13%3A23%3A08Z&sp=r&sv=2024-08-04&sr=b&scid=9f49d393-fb45-5c51-9acd-31355803cd38&skoid=bbd22fc4-f881-4ea4-b2f3-c12033cf6a8b&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-27T20%3A38%3A52Z&ske=2025-08-28T20%3A38%3A52Z&sks=b&skv=2024-08-04&sig=%2BdCG4C9n5QcQD9UXzWgjJMk4DSpg3k2YO5opJbaztTk%3D" width="60%/">
- <div align="center">
 
 <div align="center">
 
@@ -12,13 +9,7 @@ src="https://videos.openai.com/vg-assets/assets%2Ftask_01jzpcpk14eanr7dk3em76p29
 alt="Profile" 
 width="200" 
 height="200"
-style="border-radius: 50%; border: 5px solid #00f; padding: 3px; box-shadow: 0 0 15px #00f, 0 0 30px #0ff, 0 0 45px #0f0;" />
-
-<h2>Abdirahman</h2>
-
-</div>
-
-
+ />
 </div>
 
 <!-- ============ PROFILE INTRO ============ -->
