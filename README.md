@@ -25,13 +25,13 @@
 <h1 align="center">Hi there! 👋 I'm Abdirahman</h1>
 <h3 align="center">🚀 MERN Stack Developer | 🌍 Based in Somalia | 💻 Crafting Scalable Web Solutions</h3>
 
-
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=500&color=0E75B6;gradient=0E75B6,1ABC9C&center=true&vCenter=true&width=100%&lines=Full-Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Continuous+Learner" 
-    alt="Typing SVG showcasing my roles as a MERN Stack Developer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;MERN+Specialist;Problem+Solver;Continuous+Learner" 
+    alt="Typing SVG" 
   />
 </div>
+
 
 
 ---
