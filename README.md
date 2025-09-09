@@ -53,7 +53,7 @@ height="200"
 <h3 align="center">🚀 MERN Stack Developer | 🌍 Based in Somalia | 💻 Crafting Scalable Web Solutions</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full Stack+Developer;MERN+Specialist;Problem+Solver;Continuous+Learner" 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full- Stack+Developer;MERN+Specialist;Problem+Solver;Continuous+Learner" 
        alt="Typing SVG" />
 </div>
 <div align="center">
