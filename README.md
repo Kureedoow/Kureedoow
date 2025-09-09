@@ -28,8 +28,8 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=500&color=0E75B6&center=true&vCenter=true&width=100%&lines=Full-Stack+Developer;MERN+Specialist;Problem+Solver;Continuous+Learner" 
-    alt="Typing SVG of my roles"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=500&color=0E75B6;gradient=0E75B6,1ABC9C&center=true&vCenter=true&width=100%&lines=Full-Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Continuous+Learner" 
+    alt="Typing SVG showcasing my roles as a MERN Stack Developer"
   />
 </div>
 
