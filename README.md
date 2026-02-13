@@ -1,7 +1,9 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
-  <img src="https://promwad.com/sites/default/files/frontend_development_banner.jpg" width="100%" alt="Abdirahman Abdullahi Banner"/>
+  <img src="https://github.com/user-attachments/assets/f33c3bc2-6a77-44e6-92bd-4e1f0369c742" width="100%" alt="Abdirahman Abdullahi Banner"/>
 </div>
+
+
 
 <!-- ============ PROFILE & INTRO ============ -->
 <div align="center">
