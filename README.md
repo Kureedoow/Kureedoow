@@ -1,6 +1,6 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
-  <img src="https://www.canva.com/design/DAHDyDfs2bQ/y2zI0j06XM4NGhhvLK86gw/edit?utm_content=DAHDyDfs2bQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%" alt="Abdirahman Abdullahi Banner"/>
+  <img src="https://github.com/user-attachments/assets/f33c3bc2-6a77-44e6-92bd-4e1f0369c742" width="100%" alt="Abdirahman Abdullahi Banner"/>
 </div>
 
 
